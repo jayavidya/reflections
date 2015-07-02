@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you
+see the bug that was introduced?
+There was a typo in one line of the new file. Using diff, it was 
+very easy to spot this typo, because the diff tool clearly shows
+the line-by-line difference between two files. It would have been 
+more difficult to find this typo manually.
