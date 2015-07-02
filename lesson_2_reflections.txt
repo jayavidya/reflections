@@ -1,2 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
-When I initialize a repository the file .git is created. 
+When I initialize a repository the file .git is created. This subdirectory contains all of the necessary metadata of the repo.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+Staging area consists of all the files that will go into your next commit.
+
+The working directory is a singe checkout of one version of the project.These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
+
+The repository is where Git stores the metadata and the object database for your project,  and it is what is copied when you clone a repo from another computer.
+////////
