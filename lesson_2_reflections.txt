@@ -21,3 +21,8 @@ What are some situations when branches would be helpful in keeping
 your history organized? How would branches help?
 Sometimes we need to modify certain behaviour of our program, and at 
 the same we would want to keep unmodified version of the program. We would like to have the modified version as well as the unmodified version of the program in the repository. Then branches would be helpful.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help us to understand the order in which the commits were made. Also, the branch structure gives an insight into the new features
+that were added to the repository and the order in which the commits 
+are being tracked.
