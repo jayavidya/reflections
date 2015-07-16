@@ -3,4 +3,9 @@ all your work local?
 I would like to use a remote repository when I wish to share my project
 files with others in my team. This would enable others to see my code,
 and make any required changes in the files, or add any new features 
-to the project. 
+to the project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
+with your remote repository?
+ Manually pulling changes  allows me to remember that certain changes have been made
+ in the  file and they are copied to the local repository.  
