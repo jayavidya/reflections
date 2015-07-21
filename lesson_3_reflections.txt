@@ -17,3 +17,10 @@ Clones allow us to create a copy of repository on local computer
 from central repo (GitHub).
 Fork copies another repository into your GitHub account.
 
+what is the benefit of having a copy of the last known state of the 
+remote stored locally?
+The main benefit of having a copy of the last known state 
+of the remote stored locally is that the user gets 
+informed about any new feature added and any updates made in 
+the remote branch.
+
