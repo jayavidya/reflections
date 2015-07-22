@@ -24,3 +24,9 @@ of the remote stored locally is that the user gets
 informed about any new feature added and any updates made in 
 the remote branch.
 
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+Without using Git or GitHub, I would collaborate using Dropbox.
+It's always easy to upload files to my Dropbox account.
+But the changes made in the files cannot be easily tracked using
+Dropbox; it is also difficult to know about commit history in Dropbox.
