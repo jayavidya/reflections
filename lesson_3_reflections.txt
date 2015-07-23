@@ -30,3 +30,11 @@ Without using Git or GitHub, I would collaborate using Dropbox.
 It's always easy to upload files to my Dropbox account.
 But the changes made in the files cannot be easily tracked using
 Dropbox; it is also difficult to know about commit history in Dropbox.
+
+When would you want to make changes in a separate branch rather 
+than directly in master? What benefits does each approach have?
+I would want to make changes in a separate branch when I want to work on
+some new feature in a project, without affecting the main project; keeping the project intact and once, I have completed working on the 
+new feature, I would merge the feature into master.
+I would like to make change in master, when the change to be made
+is very small.
